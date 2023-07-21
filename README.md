@@ -3,7 +3,6 @@ link-- https://cssgridgarden.com/
 
 Tried to solve the levels. Here are my answers:--
 
-======================================================
 
 level-1
 grid-column-start:3;
@@ -90,4 +89,4 @@ level-28
 grid-template:1fr 50px / 1.25fr 5fr
 
 
-==========================================================
+
